@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "start": "echo 'hi!'"
+    "start": "echo 'hi!'",
+    "start-python": "python python-version-is-36.py"
   }
 }
